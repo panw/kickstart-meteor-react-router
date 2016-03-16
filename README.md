@@ -5,11 +5,9 @@ Kickstart a project with Meteor, React and react-router fast!
 1. git clone https://github.com/thereactivestack/kickstart-meteor-react-router.git
 1. cd kickstart-meteor-react-router
 1. meteor
-
-You can try [other kickstart projects](https://github.com/thereactivestack/kickstart) with ReactRouter, FlowRouter or Redux.
-
-## [Learn how to be productive with Meteor and Webpack in 7 days on TheReactiveStack.com](https://thereactivestack.com)
-
+2. npm install
+3. meteor
+4. 
 # Production
 You can use meteor run, meteor build, mup or anything working with Meteor.
 
@@ -18,9 +16,6 @@ You can use meteor run, meteor build, mup or anything working with Meteor.
 
 ## Build for production
 `meteor build .`
-
-## Deploy with Meteor-up
-`mup deploy`
 
 # Cordova
 You need to do those 3 steps to make it works with iOS or Android:
