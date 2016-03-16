@@ -7,7 +7,7 @@ Kickstart a project with Meteor, React and react-router fast!
 1. meteor
 2. npm install
 3. meteor
-4. 
+
 # Production
 You can use meteor run, meteor build, mup or anything working with Meteor.
 
